@@ -1,0 +1,2 @@
+# Implementation-of-a-4-Way-Traffic-Signal-Control-System-Using-Arduino-UNO
+Traffic control systems operate using time-division multiplexing applied to a physical space. An intersection is divided into discrete phases, with each phase allowing a non-conflicting stream of traffic to move. Microcontrollers execute these phases sequentially via high and low electrical signals sent to automated relays or light arrays.
